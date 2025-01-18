@@ -1,0 +1,8 @@
+# Tests for Image Basics
+
+This folder will contain test files to verify the functionality of our image processing operations:
+- test_loading.py: Tests for image loading and inspection
+- test_transformations.py: Tests for image transformations
+- test_color_spaces.py: Tests for color space conversions
+
+Each test file will ensure our code works as expected and helps catch any issues early.
