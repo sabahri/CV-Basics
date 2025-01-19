@@ -1,7 +1,7 @@
 # CV-Basics
 Loading an image, displaying image properties, practicing with color spaces, and using NumPy for image manipulation
 
-Guided by Glaude 3.5 Sonnet
+Guided by Claude 3.5 Sonnet
 
 ## Project Structure
 - 01_image_basics: Learning fundamental image operations
